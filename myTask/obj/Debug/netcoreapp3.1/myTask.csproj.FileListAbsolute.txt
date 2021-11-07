@@ -1,0 +1,14 @@
+C:\Users\davud_b3wsv9l\source\repos\myTask\myTask\bin\Debug\netcoreapp3.1\myTask.exe
+C:\Users\davud_b3wsv9l\source\repos\myTask\myTask\bin\Debug\netcoreapp3.1\myTask.deps.json
+C:\Users\davud_b3wsv9l\source\repos\myTask\myTask\bin\Debug\netcoreapp3.1\myTask.runtimeconfig.json
+C:\Users\davud_b3wsv9l\source\repos\myTask\myTask\bin\Debug\netcoreapp3.1\myTask.runtimeconfig.dev.json
+C:\Users\davud_b3wsv9l\source\repos\myTask\myTask\bin\Debug\netcoreapp3.1\myTask.dll
+C:\Users\davud_b3wsv9l\source\repos\myTask\myTask\bin\Debug\netcoreapp3.1\myTask.pdb
+C:\Users\davud_b3wsv9l\source\repos\myTask\myTask\obj\Debug\netcoreapp3.1\myTask.csproj.AssemblyReference.cache
+C:\Users\davud_b3wsv9l\source\repos\myTask\myTask\obj\Debug\netcoreapp3.1\myTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davud_b3wsv9l\source\repos\myTask\myTask\obj\Debug\netcoreapp3.1\myTask.AssemblyInfoInputs.cache
+C:\Users\davud_b3wsv9l\source\repos\myTask\myTask\obj\Debug\netcoreapp3.1\myTask.AssemblyInfo.cs
+C:\Users\davud_b3wsv9l\source\repos\myTask\myTask\obj\Debug\netcoreapp3.1\myTask.csproj.CoreCompileInputs.cache
+C:\Users\davud_b3wsv9l\source\repos\myTask\myTask\obj\Debug\netcoreapp3.1\myTask.dll
+C:\Users\davud_b3wsv9l\source\repos\myTask\myTask\obj\Debug\netcoreapp3.1\myTask.pdb
+C:\Users\davud_b3wsv9l\source\repos\myTask\myTask\obj\Debug\netcoreapp3.1\myTask.genruntimeconfig.cache
